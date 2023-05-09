@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
-    print("변동사항");
+    print("변동사항 2");
     return MaterialApp(
       title: 'Flutter Demo',
       theme: ThemeData(
